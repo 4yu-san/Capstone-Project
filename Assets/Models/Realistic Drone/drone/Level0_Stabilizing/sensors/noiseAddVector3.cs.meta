@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 32affbf6088ad734da2cc12b507ba18e
+timeCreated: 1458831852
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/sensors/noiseAddVector3.cs
+  uploadId: 131839

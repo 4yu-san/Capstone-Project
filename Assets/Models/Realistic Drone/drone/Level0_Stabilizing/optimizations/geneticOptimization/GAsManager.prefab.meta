@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82cd34fd97c07fb41baa495ef0ecd32e
+timeCreated: 1457879298
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/optimizations/geneticOptimization/GAsManager.prefab
+  uploadId: 131839

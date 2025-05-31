@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0668a61165adda6488cc4dee2c2f23e4
+timeCreated: 1460140563
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/waypoints/Waypoints_vineyard.prefab
+  uploadId: 131839

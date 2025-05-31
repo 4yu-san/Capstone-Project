@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51410df1de89d744693a00b481163b96
+timeCreated: 1464772915
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/scenes/2_Point.unity
+  uploadId: 131839

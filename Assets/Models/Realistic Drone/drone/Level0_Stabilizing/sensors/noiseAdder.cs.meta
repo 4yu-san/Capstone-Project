@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8cf23fe19c622db43ac5ff5adc7fc135
+timeCreated: 1458823201
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/sensors/noiseAdder.cs
+  uploadId: 131839

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13b68357f95f866419a7b0101502d478
+timeCreated: 1458757279
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/waypoints/Waypoints_Ovale.prefab
+  uploadId: 131839

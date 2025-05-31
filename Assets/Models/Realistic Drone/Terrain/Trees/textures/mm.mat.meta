@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6dc44ee8bdaa9a740a6c0d35e6a5ac66
+timeCreated: 1457977781
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/Trees/textures/mm.mat
+  uploadId: 131839

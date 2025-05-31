@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ab265e7199d3e842acdf8c951f53b5e
+timeCreated: 1468080359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/city/Materials/Cinder_Block.mat
+  uploadId: 131839

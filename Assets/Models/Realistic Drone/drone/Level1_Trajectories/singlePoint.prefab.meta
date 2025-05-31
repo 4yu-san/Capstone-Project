@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c01e06283f3358a4196a4dbc5952a0f9
+timeCreated: 1461235783
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/singlePoint.prefab
+  uploadId: 131839

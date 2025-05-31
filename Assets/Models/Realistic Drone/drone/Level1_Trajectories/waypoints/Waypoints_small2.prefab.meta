@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 348ec027916c14544a409e6e657d345c
+timeCreated: 1459769548
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/waypoints/Waypoints_small2.prefab
+  uploadId: 131839

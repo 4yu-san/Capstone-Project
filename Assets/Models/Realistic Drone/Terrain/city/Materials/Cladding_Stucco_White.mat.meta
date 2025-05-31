@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7b8264b579f67d46805eaa642fb9016
+timeCreated: 1468080359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/city/Materials/Cladding_Stucco_White.mat
+  uploadId: 131839

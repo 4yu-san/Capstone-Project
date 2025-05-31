@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb701950dc2b6764a91f85c2848c392b
+timeCreated: 1456587709
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/3dModel/Materials/Color_001.mat
+  uploadId: 131839

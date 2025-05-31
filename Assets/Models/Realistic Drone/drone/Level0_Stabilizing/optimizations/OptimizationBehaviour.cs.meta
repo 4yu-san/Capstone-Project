@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 71d7a5d0e6be87a4895ef031e3e6b5cf
+timeCreated: 1459018958
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/optimizations/OptimizationBehaviour.cs
+  uploadId: 131839

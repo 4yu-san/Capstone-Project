@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c423c7c21f2cae7479ccca17b03ede43
+timeCreated: 1468080359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/city/Materials/Brick_Tumbled.mat
+  uploadId: 131839

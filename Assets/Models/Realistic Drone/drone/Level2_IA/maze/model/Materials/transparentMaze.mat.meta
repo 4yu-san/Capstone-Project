@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48104c4bd4253d4418ee920c6e4c4c3d
+timeCreated: 1461500339
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level2_IA/maze/model/Materials/transparentMaze.mat
+  uploadId: 131839

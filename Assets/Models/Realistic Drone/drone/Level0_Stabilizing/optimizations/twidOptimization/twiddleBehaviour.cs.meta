@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 39339cf945bc5df478c5d7c70047dc0e
+timeCreated: 1459018841
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/optimizations/twidOptimization/twiddleBehaviour.cs
+  uploadId: 131839

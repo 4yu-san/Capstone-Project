@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fcd2d03af7fcf645a74ca401bd2b51a
+timeCreated: 1456612412
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/scenes/debug.unity
+  uploadId: 131839

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b40e901ac3508bc428953b5e049b4ae1
+timeCreated: 1460893909
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/3dModel/Materials/linesMaterial.mat
+  uploadId: 131839

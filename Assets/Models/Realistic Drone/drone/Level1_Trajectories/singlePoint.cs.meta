@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b33b0cb2705fad145ba9cae0900692da
+timeCreated: 1461233823
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/singlePoint.cs
+  uploadId: 131839

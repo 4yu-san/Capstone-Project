@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 94a13467f229d7a4c80c3ae28f1e1356
+timeCreated: 1456870964
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/rotor.cs
+  uploadId: 131839

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc31fa50c869c144596bfe5d43e927a3
+timeCreated: 1459793340
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/waypoints/Waypoints_spiral.prefab
+  uploadId: 131839

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a056f6ff2374c7c4eb71d28d6740fe58
+timeCreated: 1456961038
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/optimizations/geneticOptimization/GAmanager.cs
+  uploadId: 131839

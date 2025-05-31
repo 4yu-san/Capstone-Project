@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 631f037fb533d0548a1b6cb1e9febd0a
+timeCreated: 1462009163
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level2_IA/maze/graphAssets/deadNodeMaterial.mat
+  uploadId: 131839

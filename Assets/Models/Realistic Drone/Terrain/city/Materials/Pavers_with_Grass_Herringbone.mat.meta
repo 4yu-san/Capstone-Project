@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a43dfeaceaad5354b9d94ae91bb4a733
+timeCreated: 1468080359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/city/Materials/Pavers_with_Grass_Herringbone.mat
+  uploadId: 131839

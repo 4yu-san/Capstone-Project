@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e1a88b98f12ae140a6808f5cfb940b4
+timeCreated: 1464772011
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/scenes/4_twiddle.unity
+  uploadId: 131839

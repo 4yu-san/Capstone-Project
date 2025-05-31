@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0d0409f5c7fc35459f4744e6724bf81
+timeCreated: 1464772136
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/scenes/3_GeneticAlgorithm.unity
+  uploadId: 131839

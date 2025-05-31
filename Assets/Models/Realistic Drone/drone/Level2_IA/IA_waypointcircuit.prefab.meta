@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 578080450b6c6fb49b965ba52c2291e0
+timeCreated: 1460622664
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level2_IA/IA_waypointcircuit.prefab
+  uploadId: 131839

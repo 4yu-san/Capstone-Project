@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5519d548bc2a2494da69abfc665d01a2
+timeCreated: 1462181358
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/scenes/5_mazeHouse.unity
+  uploadId: 131839

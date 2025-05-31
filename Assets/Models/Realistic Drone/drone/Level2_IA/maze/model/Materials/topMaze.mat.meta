@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 237588ddc2828274385bc1693a5ac8a1
+timeCreated: 1461835580
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level2_IA/maze/model/Materials/topMaze.mat
+  uploadId: 131839

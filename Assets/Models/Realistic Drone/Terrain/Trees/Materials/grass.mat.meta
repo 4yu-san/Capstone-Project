@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79f4ec599342c4a4a87ae412b70ff873
+timeCreated: 1470845160
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/Trees/Materials/grass.mat
+  uploadId: 131839

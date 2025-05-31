@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f03ed62646dcf5e408003faca68cadbd
+timeCreated: 1468080360
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/city/Materials/Pavers_with_Grass_Brick.mat
+  uploadId: 131839

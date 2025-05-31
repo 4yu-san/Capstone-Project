@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b6fd27595b2fe74d95a0ed758d7e28e
+timeCreated: 1459793637
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level1_Trajectories/waypoints/Waypoints_Curve.prefab
+  uploadId: 131839

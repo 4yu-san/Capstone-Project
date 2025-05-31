@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53f4a04a030fe214e8c5e99343141505
+timeCreated: 1459018854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/drone/Level0_Stabilizing/optimizations/twidOptimization/TWIDDLEmanager.prefab
+  uploadId: 131839

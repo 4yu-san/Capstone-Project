@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6df5c15a99898a34a8670217414df246
+timeCreated: 1468080359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66698
+  packageName: Realistic Drone
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Drone/Terrain/city/Materials/Brick_Rough_Dark.mat
+  uploadId: 131839
